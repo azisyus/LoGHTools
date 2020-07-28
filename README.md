@@ -27,7 +27,7 @@ witty_remarks.bin = probably in game repetative npc dialogs</pre>
 
 
 # FILE DESCRIPTIONS IN drama directory
-<pre>drm_telop.arc = probably cutscene titles and important planet/ship names
+<pre>drm_telop.arc = probably cutscene titles as image and important planet/ship names
 drm_grap.arc = some scenes from anime
 drm_bg.arc = illustration of ship bridges and important rooms/places also some scenes from anime
 drm_mdx.arc = i believe they they are basic animations
