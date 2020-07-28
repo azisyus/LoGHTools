@@ -26,5 +26,13 @@ weapon_common_spec.bin = weapon names, missile, railgun etc...
 witty_remarks.bin = probably in game repetative npc dialogs</pre>
 
 
+# FILE DESCRIPTIONS IN drama directory
+<pre>drm_telop.arc = probably cutscene titles and important planet/ship names
+drm_grap.arc = some scenes from anime
+drm_bg.arc = illustration of ship bridges and important rooms/places also some scenes from anime
+drm_mdx.arc = i believe they they are basic animations
+drm_mdxtex.arc = ship textures and explosions sprites</pre>
+
+
 
 
